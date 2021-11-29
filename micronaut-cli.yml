@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: app.bikeme.bikemanager
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, graalvm, gradle, junit, kotlin, kotlin-application, logback, mongo-reactive, readme, shade, testcontainers, yaml]
